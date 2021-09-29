@@ -1,0 +1,7 @@
+C:\Users\aniaz\Source\Repos\AbyssvvaIker\Chessers-gameLogic\CheckersLogic\bin\Debug\CheckersLogic.exe.config
+C:\Users\aniaz\Source\Repos\AbyssvvaIker\Chessers-gameLogic\CheckersLogic\bin\Debug\CheckersLogic.exe
+C:\Users\aniaz\Source\Repos\AbyssvvaIker\Chessers-gameLogic\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\aniaz\Source\Repos\AbyssvvaIker\Chessers-gameLogic\CheckersLogic\obj\Debug\CheckersLogic.csprojAssemblyReference.cache
+C:\Users\aniaz\Source\Repos\AbyssvvaIker\Chessers-gameLogic\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\aniaz\Source\Repos\AbyssvvaIker\Chessers-gameLogic\CheckersLogic\obj\Debug\CheckersLogic.exe
+C:\Users\aniaz\Source\Repos\AbyssvvaIker\Chessers-gameLogic\CheckersLogic\obj\Debug\CheckersLogic.pdb
